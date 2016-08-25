@@ -6,9 +6,9 @@ color:
   saturation: 0.08537454809993505
   rhythmicContrast: 0.42360574938356876
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#A1A1A1'
+    - '#FEE9C5'
+    - '#362D23'
+    - '#93573A'
+    - '#13130A'
 name: Australian Gin
