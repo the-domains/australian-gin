@@ -1,0 +1,14 @@
+layout_spectrum: 0.5926757925190032
+typography_spectrum: 0.8700089489575475
+color:
+  brandStrength: 0.17501764907501638
+  lightness: 0.5443862467072904
+  saturation: 0.08537454809993505
+  rhythmicContrast: 0.42360574938356876
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Australian Gin
