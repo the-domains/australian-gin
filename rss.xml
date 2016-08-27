@@ -4,8 +4,22 @@
         <description><![CDATA[Australian Gin]]></description>
         <link>http://australiangin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 01:31:11 GMT</lastBuildDate>
         <atom:link href="http://australiangin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shene Estate & Distillery Tasmania - distillery, tours and more]]></title>
+            <description><![CDATA[<article><h1>Shene Estate & Distillery Tasmania - distillery, tours and more</h1><p>Shene Estate at Pontville near Hobart Tasmania is an historic property with a distillery, tours & more. A toast to the future from the spirits of the past.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1f7458a136c263c650c76055c44fda18/noop.jpg?input=http%3A%2F%2Fwww.shene.com.au%2Fwp-content%2Fuploads%2F2015%2F08%2Fmain-home.jpg"></article>]]></description>
+            <link>http://www.shene.com.au</link>
+            <guid isPermaLink="false">2c1c490e-e798-4685-9511-3ae48b19fb56</guid>
+            <pubDate>Sat, 27 Aug 2016 01:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hand-crafted spirits]]></title>
+            <description><![CDATA[<article><h1>Hand-crafted spirits</h1><p>The only bespoke distillery on the Mornington Peninsula - Hand-crafted gins, vodka, aged spirit, limoncello - Make your own gin at our Gin Masterclass!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e811a35f46db18772cc852adeb448458/noop.png?input=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0870%2F5100%2Ft%2F3%2Fassets%2Flogo.png%3F8203352890995823800"></article>]]></description>
+            <link>http://www.bassandflindersdistillery.com</link>
+            <guid isPermaLink="false">910d3a48-bbee-4c08-b86c-e5acc87ffaab</guid>
+            <pubDate>Sat, 27 Aug 2016 01:27:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to Stone Pine Distillery - Australia]]></title>
             <description><![CDATA[<article><h1>Welcome to Stone Pine Distillery - Australia</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/263711dadaabd302eb85934a5ab4b29c/noop.png?input=http%3A%2F%2Fstonepinedistillery.com.au%2Fimages%2Ffacebook2.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.thewestwindsgin.com/</link>
             <guid isPermaLink="false">f24b1a6a-5be3-44cb-9ded-3fe5a96087ec</guid>
             <pubDate>Sat, 27 Aug 2016 01:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four Pillars Gin - a small Australian distillery]]></title>
-            <description><![CDATA[<article><h1>Four Pillars Gin - a small Australian distillery</h1><p>Four Pillars is a small Australian distillery in the Yarra Valley. Our ambition is to make the best craft spirits in Australia, and our first release will be a batch-distilled rare dry gin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/81e2818328e5b82462ed32d2aa9ae398/noop.png?input=https%3A%2F%2Fwww.fourpillarsgin.com.au%2Fimages%2Flogo.png"></article>]]></description>
-            <link>https://www.fourpillarsgin.com.au/</link>
-            <guid isPermaLink="false">75f28249-f407-4791-a982-bae697a08fcf</guid>
-            <pubDate>Sat, 27 Aug 2016 01:12:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hobart No. 4 Gin by Sullivans Cove Whisky | Makers of the World's Best Single Malt Whisky]]></title>
-            <description><![CDATA[<article><h1>Hobart No. 4 Gin by Sullivans Cove Whisky | Makers of the World's Best Single Malt Whisky</h1><p>This seductively rich spirit is double distilled in our pot still from our island's barley and soft water, and enriched with four native Australian botanicals - lemon myrtle, anise myrtle, lanceolata & wattleseed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e9ce69ad9be934d76f829952e8403510/croprotate.jpg?cropheight=1416&cropwidth=501&degrees=0&input=http%3A%2F%2Fhobartno4gin.com%2Fimages%2Fhobart-no4-gin.jpg&x=75&y=0"></article>]]></description>
-            <link>http://hobartno4gin.com/</link>
-            <guid isPermaLink="false">2e800d50-2645-41c7-b957-d96cb81aa906</guid>
-            <pubDate>Sat, 27 Aug 2016 01:12:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
