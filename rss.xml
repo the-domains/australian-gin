@@ -4,8 +4,15 @@
         <description><![CDATA[Australian Gin]]></description>
         <link>http://australiangin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 01:47:56 GMT</lastBuildDate>
         <atom:link href="http://australiangin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grove Experience]]></title>
+            <description><![CDATA[<article><h1>The Grove Experience</h1><p>Under the Liquor Control Act 1988 (Western Australia), it is an offence: - to sell or supply liquor to a person under the age of 18 years on licensed or regulated premises; or - for a person under the age of 18 years to purchase, or attempt to purchase, liquor on licensed or regulated premises.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d698d91997c1ddc921c31c38117b2e79/noop.jpg?input=https%3A%2F%2Fwww.thegroveexperience.com.au%2Fapp%2Fuploads%2F2015%2F08%2Fimg03.jpg"></article>]]></description>
+            <link>https://www.thegroveexperience.com.au</link>
+            <guid isPermaLink="false">0bd4eef8-6deb-414d-b9f8-a3dac1c2eaa6</guid>
+            <pubDate>Sat, 27 Aug 2016 01:47:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dobson's Distillery...Eastview Estate]]></title>
             <description><![CDATA[<article><h1>Dobson's Distillery...Eastview Estate</h1><p>All prices are in AUD. © 2016 Dobsons Distillery. | Shopping Cart Software by Bigcommerce</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fad41b2aa2a00f3480855ac64ef4a84/croprotate.jpg?cropheight=450&cropwidth=744&degrees=0&input=http%3A%2F%2Fcdn3.bigcommerce.com%2Fs-7xcli%2Fproduct_images%2Ftheme_images%2Fclowns.jpg%3Ft%3D1403688967&x=104&y=0"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Craft Australian Whisky & Spirits | Limeburners | Western Australia]]></title>
-            <description><![CDATA[<article><h1>Craft Australian Whisky & Spirits | Limeburners | Western Australia</h1><p>Western Australia's first Single Malt Whisky Distillery crafts premium Australian Whisky sold at our online store as well as both of our cellar doors.</p><img src="https://static.wixstatic.com/media/4bb0b6_c92af9ac2cb14ff0ac0838539d1914c7.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Craft Australian Whisky & Spirits | Limeburners | Western Australia</h1><p>Western Australia's first Single Malt Whisky Distillery crafts premium Australian Whisky sold at our online store as well as both of our cellar doors.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3d8243fe0d2363e4230fc5a158802005/noop.jpg?input=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F4bb0b6_c92af9ac2cb14ff0ac0838539d1914c7.jpg"></article>]]></description>
             <link>http://www.distillery.com.au</link>
             <guid isPermaLink="false">2444bc31-830a-4bbd-93f6-83b8f1d42d0a</guid>
             <pubDate>Sat, 27 Aug 2016 01:46:21 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://inkgin.com</link>
             <guid isPermaLink="false">59889a52-5b28-451e-83ee-c3e0c0f7c801</guid>
             <pubDate>Sat, 27 Aug 2016 01:32:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shene Estate & Distillery Tasmania - distillery, tours and more]]></title>
-            <description><![CDATA[<article><h1>Shene Estate & Distillery Tasmania - distillery, tours and more</h1><p>Shene Estate at Pontville near Hobart Tasmania is an historic property with a distillery, tours & more. A toast to the future from the spirits of the past.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1f7458a136c263c650c76055c44fda18/noop.jpg?input=http%3A%2F%2Fwww.shene.com.au%2Fwp-content%2Fuploads%2F2015%2F08%2Fmain-home.jpg"></article>]]></description>
-            <link>http://www.shene.com.au</link>
-            <guid isPermaLink="false">2c1c490e-e798-4685-9511-3ae48b19fb56</guid>
-            <pubDate>Sat, 27 Aug 2016 01:31:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
