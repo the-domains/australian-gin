@@ -4,8 +4,15 @@
         <description><![CDATA[Australian Gin]]></description>
         <link>http://australiangin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:31:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 01:32:46 GMT</lastBuildDate>
         <atom:link href="http://australiangin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ink Gin - Colour from Nature]]></title>
+            <description><![CDATA[<article><h1>Ink Gin - Colour from Nature</h1><p>Hand Made | Small Batch | Pot Distilled Ink Gin is an Australian Dry Gin, infused with butterfly pea flowers and made in ultra small batches of 110 bottles at our distillery farm in Tumbulgum, Northern NSW.Support local and buy online today!</p><img src="http://test.inkgin.com/wp-content/uploads/2015/03/2.jpg"></article>]]></description>
+            <link>http://inkgin.com</link>
+            <guid isPermaLink="false">59889a52-5b28-451e-83ee-c3e0c0f7c801</guid>
+            <pubDate>Sat, 27 Aug 2016 01:32:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shene Estate & Distillery Tasmania - distillery, tours and more]]></title>
             <description><![CDATA[<article><h1>Shene Estate & Distillery Tasmania - distillery, tours and more</h1><p>Shene Estate at Pontville near Hobart Tasmania is an historic property with a distillery, tours & more. A toast to the future from the spirits of the past.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1f7458a136c263c650c76055c44fda18/noop.jpg?input=http%3A%2F%2Fwww.shene.com.au%2Fwp-content%2Fuploads%2F2015%2F08%2Fmain-home.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://nonesuchdistillery.com.au</link>
             <guid isPermaLink="false">a0659b78-9991-4724-939e-c7166ee3d0e3</guid>
             <pubDate>Sat, 27 Aug 2016 01:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The West Winds Gin | Home]]></title>
-            <description><![CDATA[<article><h1>The West Winds Gin | Home</h1><p>The Sabre is our doff of the cap to the gin houses of old. Unashamedly classic, it is our Australian expression of a traditional gin, incorporating a strong undercurrent of citrus weaving through twelve spices and botanicals including juniper, lemon myrtle, lime peel and wattle seed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd3703814f067c760f4e660a7870b272/noop.jpg?input=http%3A%2F%2Fwww.thewestwindsgin.com%2F_assets%2Fimg%2FCANNAL_ROCKS_SLIDER2.jpg"></article>]]></description>
-            <link>http://www.thewestwindsgin.com/</link>
-            <guid isPermaLink="false">f24b1a6a-5be3-44cb-9ded-3fe5a96087ec</guid>
-            <pubDate>Sat, 27 Aug 2016 01:13:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
