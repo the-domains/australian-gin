@@ -4,8 +4,15 @@
         <description><![CDATA[Australian Gin]]></description>
         <link>http://australiangin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 01:39:34 GMT</lastBuildDate>
         <atom:link href="http://australiangin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HOME | Adelaide Hills Distillery]]></title>
+            <description><![CDATA[<article><h1>HOME | Adelaide Hills Distillery</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bd3a7f1c4931109614940b6b09cef542/noop?input=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F56fcd242a3360ca005d5d015%2Ft%2F570112cf4c2f85f4f9b87245%2F1472109745589%2F%3Fformat%3D1000w"></article>]]></description>
+            <link>https://www.adelaidehillsdistillery.com.au</link>
+            <guid isPermaLink="false">7f5316d2-d3c3-4cbf-82ed-3eb035dcfa8f</guid>
+            <pubDate>Sat, 27 Aug 2016 01:39:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Antipodes Gin Co.]]></title>
             <description><![CDATA[<article><h1>The Antipodes Gin Co.</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5b50f24f330b9ed1e4196ac418a155df/noop.png?input=http%3A%2F%2Fwww.antipodesgin.com%2Fimages%2Fcredentials.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://ironbarkdistillery.com.au</link>
             <guid isPermaLink="false">f966e0e6-ef39-433b-8559-61afbde4351f</guid>
             <pubDate>Sat, 27 Aug 2016 01:17:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[POOR TOMS GIN]]></title>
-            <description><![CDATA[<article><h1>POOR TOMS GIN</h1><p>Poor Toms Gin, Sydney's Finest Gin</p></article>]]></description>
-            <link>http://www.poortomsgin.com.au</link>
-            <guid isPermaLink="false">ea033de9-f5e9-480d-9a55-682abe839f91</guid>
-            <pubDate>Sat, 27 Aug 2016 01:17:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
