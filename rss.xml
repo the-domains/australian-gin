@@ -4,8 +4,15 @@
         <description><![CDATA[Australian Gin]]></description>
         <link>http://australiangin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 01:53:24 GMT</lastBuildDate>
         <atom:link href="http://australiangin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kangaroo Island Spirits]]></title>
+            <description><![CDATA[<article><h1>Kangaroo Island Spirits</h1><p>Kangaroo Island Spirits is a boutique distillery hand-making premium Australian Spirits and Liqueurs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1fd7a76cb6fb8ed24bd517fb32304588/croprotate.jpg?cropheight=3262&cropwidth=4912&degrees=0&input=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0204%2F1088%2Ft%2F2%2Fassets%2Fslide-image-2.jpg%3F22588223351850045&x=0&y=0"></article>]]></description>
+            <link>http://www.kispirits.com.au</link>
+            <guid isPermaLink="false">8773e6b8-a727-43d7-99a7-8438710de68e</guid>
+            <pubDate>Sat, 27 Aug 2016 01:53:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grove Experience]]></title>
             <description><![CDATA[<article><h1>The Grove Experience</h1><p>Under the Liquor Control Act 1988 (Western Australia), it is an offence: - to sell or supply liquor to a person under the age of 18 years on licensed or regulated premises; or - for a person under the age of 18 years to purchase, or attempt to purchase, liquor on licensed or regulated premises.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d698d91997c1ddc921c31c38117b2e79/noop.jpg?input=https%3A%2F%2Fwww.thegroveexperience.com.au%2Fapp%2Fuploads%2F2015%2F08%2Fimg03.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.antipodesgin.com</link>
             <guid isPermaLink="false">ac8a7db4-d645-4b97-83cf-20d188f7f59e</guid>
             <pubDate>Sat, 27 Aug 2016 01:39:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ink Gin - Colour from Nature]]></title>
-            <description><![CDATA[<article><h1>Ink Gin - Colour from Nature</h1><p>Hand Made | Small Batch | Pot Distilled Ink Gin is an Australian Dry Gin, infused with butterfly pea flowers and made in ultra small batches of 110 bottles at our distillery farm in Tumbulgum, Northern NSW.Support local and buy online today!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ddf366015f4d3c1da797f97cf6230f61/noop.jpg?input=http%3A%2F%2Ftest.inkgin.com%2Fwp-content%2Fuploads%2F2015%2F03%2F2.jpg"></article>]]></description>
-            <link>http://inkgin.com</link>
-            <guid isPermaLink="false">59889a52-5b28-451e-83ee-c3e0c0f7c801</guid>
-            <pubDate>Sat, 27 Aug 2016 01:32:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
