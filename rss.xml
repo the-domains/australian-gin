@@ -4,8 +4,15 @@
         <description><![CDATA[Australian Gin]]></description>
         <link>http://australiangin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 01:24:04 GMT</lastBuildDate>
         <atom:link href="http://australiangin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Stone Pine Distillery - Australia]]></title>
+            <description><![CDATA[<article><h1>Welcome to Stone Pine Distillery - Australia</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/263711dadaabd302eb85934a5ab4b29c/noop.png?input=http%3A%2F%2Fstonepinedistillery.com.au%2Fimages%2Ffacebook2.png"></article>]]></description>
+            <link>https://stonepinedistillery.com.au</link>
+            <guid isPermaLink="false">f047070e-5229-43da-9c3f-01e78b09adc8</guid>
+            <pubDate>Sat, 27 Aug 2016 01:23:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Home]]></title>
             <description><![CDATA[<article><h1>New Home</h1><p>Victorian Liquor Licence No. 36133267. Under the Liquor Control Reform Act 1998 it is an offence - To supply alcohol to a person under the age of 18 years (Penalty exceeds $8,000) - For a person under the age of 18 years to purchase or receive liquor (Penalty exceeds $700) A flat-rate shipping fee of $15.00 applies to all transactions made through this website.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad0186723edab3044ab6001d4db50516/noop.jpg?input=https%3A%2F%2Fwww.lochbrewery.com.au%2Fwp-content%2Fthemes%2Froyal%2Fimages%2Fstaticks%2Ffacebook-default.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://hobartno4gin.com/</link>
             <guid isPermaLink="false">2e800d50-2645-41c7-b957-d96cb81aa906</guid>
             <pubDate>Sat, 27 Aug 2016 01:12:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Melbourne Gin Company]]></title>
-            <description><![CDATA[<article><h1>Melbourne Gin Company</h1><p>From the World's most liveable city comes its very own Melbourne Dry Gin. A classic gin with a twist of Melbourne, The Melbourne Gin Company is hand crafted, batch distilled and non chill filtered.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/869f014bcd3fab6be565734aedebfbac/noop.jpg?input=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160720173731%2Fhttp%3A%2F%2Fwww.melbournegincompany.com%2Fimages%2Fbg-rain.jpg"></article>]]></description>
-            <link>http://melbournegincompany.com/</link>
-            <guid isPermaLink="false">5770f240-b059-4b02-9b67-5fc78393428d</guid>
-            <pubDate>Sat, 27 Aug 2016 01:12:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
