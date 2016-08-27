@@ -4,8 +4,15 @@
         <description><![CDATA[Australian Gin]]></description>
         <link>http://australiangin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 01:43:18 GMT</lastBuildDate>
         <atom:link href="http://australiangin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Garden Grown Gin]]></title>
+            <description><![CDATA[<article><h1>Garden Grown Gin</h1><p>Distillery Botanica gin is lovingly handcrafted in our picturesque garden just outside of Sydney, Australia. It's here that we grow and handpick the botanicals that give our gin it's distinctive character. We reckon the fresher the botanicals the more fragrant the gin. And it's that scent that we love most.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6334dce9175a8d24903d6322d270d361/noop.jpg?input=http%3A%2F%2Fdistillerybotanica.com%2Fwp-content%2Fuploads%2F2015%2F11%2FDB_Small_Img-B1.jpg"></article>]]></description>
+            <link>http://distillerybotanica.com/</link>
+            <guid isPermaLink="false">099c7fcf-f8d6-4e8a-89e2-be7c14be030b</guid>
+            <pubDate>Sat, 27 Aug 2016 01:43:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blind Tiger Gin - An Exotic and Organic Blend]]></title>
             <description><![CDATA[<article><h1>Blind Tiger Gin - An Exotic and Organic Blend</h1><p>We search the world for the most sustainable, organic botanicals. Blind Tiger Gin is an exotic blend of coriander, angelica root, savoury and juniper berries.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://stonepinedistillery.com.au</link>
             <guid isPermaLink="false">f047070e-5229-43da-9c3f-01e78b09adc8</guid>
             <pubDate>Sat, 27 Aug 2016 01:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Home]]></title>
-            <description><![CDATA[<article><h1>New Home</h1><p>Victorian Liquor Licence No. 36133267. Under the Liquor Control Reform Act 1998 it is an offence - To supply alcohol to a person under the age of 18 years (Penalty exceeds $8,000) - For a person under the age of 18 years to purchase or receive liquor (Penalty exceeds $700) A flat-rate shipping fee of $15.00 applies to all transactions made through this website.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad0186723edab3044ab6001d4db50516/noop.jpg?input=https%3A%2F%2Fwww.lochbrewery.com.au%2Fwp-content%2Fthemes%2Froyal%2Fimages%2Fstaticks%2Ffacebook-default.jpg"></article>]]></description>
-            <link>https://www.lochbrewery.com.au</link>
-            <guid isPermaLink="false">0598dc84-00b8-4625-97a6-f06678f48ec4</guid>
-            <pubDate>Sat, 27 Aug 2016 01:23:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
