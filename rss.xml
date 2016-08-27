@@ -4,8 +4,15 @@
         <description><![CDATA[Australian Gin]]></description>
         <link>http://australiangin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 01:12:56 GMT</lastBuildDate>
         <atom:link href="http://australiangin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Melbourne Gin Company]]></title>
+            <description><![CDATA[<article><h1>Melbourne Gin Company</h1><p>From the World's most liveable city comes its very own Melbourne Dry Gin. A classic gin with a twist of Melbourne, The Melbourne Gin Company is hand crafted, batch distilled and non chill filtered.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/869f014bcd3fab6be565734aedebfbac/noop.jpg?input=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160720173731%2Fhttp%3A%2F%2Fwww.melbournegincompany.com%2Fimages%2Fbg-rain.jpg"></article>]]></description>
+            <link>http://melbournegincompany.com/</link>
+            <guid isPermaLink="false">5770f240-b059-4b02-9b67-5fc78393428d</guid>
+            <pubDate>Sat, 27 Aug 2016 01:12:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[McHenry Distillery]]></title>
             <description><![CDATA[<article><h1>McHenry Distillery</h1><p>McHenry Distillery is Australia's southern-most whisky distillery and with its family heritage makes it the southernmost family run distillery in the world. Its southern location takes advantage of the ...</p></article>]]></description>
