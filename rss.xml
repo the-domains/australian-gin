@@ -4,8 +4,15 @@
         <description><![CDATA[Australian Gin]]></description>
         <link>http://australiangin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:53:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 02:07:08 GMT</lastBuildDate>
         <atom:link href="http://australiangin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hand-crafted spirits]]></title>
+            <description><![CDATA[<article><h1>Hand-crafted spirits</h1><p>The only bespoke distillery on the Mornington Peninsula - Hand-crafted gins, vodka, aged spirit, limoncello - Make your own gin at our Gin Masterclass!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e811a35f46db18772cc852adeb448458/noop.png?input=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0870%2F5100%2Ft%2F3%2Fassets%2Flogo.png%3F8203352890995823800"></article>]]></description>
+            <link>http://www.bassandflindersdistillery.com</link>
+            <guid isPermaLink="false">20f7b602-8f39-413d-a246-63f06d7e9982</guid>
+            <pubDate>Sat, 27 Aug 2016 02:07:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kangaroo Island Spirits]]></title>
             <description><![CDATA[<article><h1>Kangaroo Island Spirits</h1><p>Kangaroo Island Spirits is a boutique distillery hand-making premium Australian Spirits and Liqueurs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1fd7a76cb6fb8ed24bd517fb32304588/croprotate.jpg?cropheight=3262&cropwidth=4912&degrees=0&input=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0204%2F1088%2Ft%2F2%2Fassets%2Fslide-image-2.jpg%3F22588223351850045&x=0&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.adelaidehillsdistillery.com.au</link>
             <guid isPermaLink="false">7f5316d2-d3c3-4cbf-82ed-3eb035dcfa8f</guid>
             <pubDate>Sat, 27 Aug 2016 01:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Antipodes Gin Co.]]></title>
-            <description><![CDATA[<article><h1>The Antipodes Gin Co.</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5b50f24f330b9ed1e4196ac418a155df/noop.png?input=http%3A%2F%2Fwww.antipodesgin.com%2Fimages%2Fcredentials.png"></article>]]></description>
-            <link>http://www.antipodesgin.com</link>
-            <guid isPermaLink="false">ac8a7db4-d645-4b97-83cf-20d188f7f59e</guid>
-            <pubDate>Sat, 27 Aug 2016 01:39:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
