@@ -4,8 +4,15 @@
         <description><![CDATA[Australian Gin]]></description>
         <link>http://australiangin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 01:18:09 GMT</lastBuildDate>
         <atom:link href="http://australiangin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ironbark Distillery - Distillers of Fine Spirits]]></title>
+            <description><![CDATA[<article><h1>Ironbark Distillery - Distillers of Fine Spirits</h1><p>From our ingredients and equipment to our experienced operators, Ironbark Distillery strives for perfection using only quality Australian base materials.</p><img src="http://ironbarkdistillery.com.au/wp-content/uploads/S16SILVER-1750x1750cmyk.jpg"></article>]]></description>
+            <link>http://ironbarkdistillery.com.au</link>
+            <guid isPermaLink="false">f966e0e6-ef39-433b-8559-61afbde4351f</guid>
+            <pubDate>Sat, 27 Aug 2016 01:17:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[POOR TOMS GIN]]></title>
             <description><![CDATA[<article><h1>POOR TOMS GIN</h1><p>Poor Toms Gin, Sydney's Finest Gin</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://fortyspotted.com</link>
             <guid isPermaLink="false">35f391f4-b0d5-4331-b5da-0e3948057e39</guid>
             <pubDate>Sat, 27 Aug 2016 00:45:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top 10 Australian Gin You Should be Drinking Now - Cocktails & Bars]]></title>
-            <description><![CDATA[<article><h1>Top 10 Australian Gin You Should be Drinking Now - Cocktails & Bars</h1><p>The recent worldwide gin resurgence has led to a rise in Australian craft gin. Not only have we seen a growth in new and existing distilleries, variations of the juniper-based craft spirit offer the consumer a wider choice, be it within a gin brand or a style of gin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d3d86b94f41acb6e9ba5c336313efa37/noop.jpg?input=http%3A%2F%2Fwww.cocktailsandbars.com%2Fwp-content%2Fuploads%2F2015%2F11%2Fbest-australian-gin-cocktailsandbars-IMG_080990.jpg"></article>]]></description>
-            <link>http://www.cocktailsandbars.com/top-10-australian-gin/</link>
-            <guid isPermaLink="false">2aab03a3-7c87-46ad-9716-5a9e03c80a22</guid>
-            <pubDate>Thu, 25 Aug 2016 02:15:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
