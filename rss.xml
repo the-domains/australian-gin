@@ -4,7 +4,7 @@
         <description><![CDATA[Australian Gin]]></description>
         <link>http://australiangin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 01:18:32 GMT</lastBuildDate>
         <atom:link href="http://australiangin.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Archie Rose Distilling Co. | Independent Distillery & Bar In Sydney]]></title>
@@ -12,6 +12,13 @@
             <link>https://archierose.com.au/?gclid=CMvW3c-14M4CFQubvQodD78N-w</link>
             <guid isPermaLink="false">bd67f10a-f5eb-4962-8333-38145c38d4e3</guid>
             <pubDate>Sat, 27 Aug 2016 01:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Gin Queen - Three parts woman, one part gin]]></title>
+            <description><![CDATA[<article><h1>The Gin Queen - Three parts woman, one part gin</h1><p>Three parts woman, one part gin</p><img src="http://theginqueen.com/wp-content/uploads/2016/08/poortomsfoorproof.jpg"></article>]]></description>
+            <link>http://theginqueen.com</link>
+            <guid isPermaLink="false">762b2282-1f83-4916-b9eb-a42bae3d72bd</guid>
+            <pubDate>Sat, 27 Aug 2016 01:18:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ironbark Distillery - Distillers of Fine Spirits]]></title>
@@ -68,13 +75,6 @@
             <link>http://mchenrydistillery.com.au/</link>
             <guid isPermaLink="false">a28be1bc-1303-4fe7-baa5-8223d5b8c529</guid>
             <pubDate>Sat, 27 Aug 2016 01:12:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[McHenry Distillery]]></title>
-            <description><![CDATA[<article><h1>McHenry Distillery</h1><p>McHenry Distillery is Australia's southern-most whisky distillery and with its family heritage makes it the southernmost family run distillery in the world. Its southern location takes advantage of the ...</p></article>]]></description>
-            <link>http://mchenrydistillery.com.au/</link>
-            <guid isPermaLink="false">ec481666-4457-4d4e-9a08-a07ca5de1681</guid>
-            <pubDate>Sat, 27 Aug 2016 01:12:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
