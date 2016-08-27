@@ -4,8 +4,15 @@
         <description><![CDATA[Australian Gin]]></description>
         <link>http://australiangin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 01:23:55 GMT</lastBuildDate>
         <atom:link href="http://australiangin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Home]]></title>
+            <description><![CDATA[<article><h1>New Home</h1><p>Victorian Liquor Licence No. 36133267. Under the Liquor Control Reform Act 1998 it is an offence - To supply alcohol to a person under the age of 18 years (Penalty exceeds $8,000) - For a person under the age of 18 years to purchase or receive liquor (Penalty exceeds $700) A flat-rate shipping fee of $15.00 applies to all transactions made through this website.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad0186723edab3044ab6001d4db50516/noop.jpg?input=https%3A%2F%2Fwww.lochbrewery.com.au%2Fwp-content%2Fthemes%2Froyal%2Fimages%2Fstaticks%2Ffacebook-default.jpg"></article>]]></description>
+            <link>https://www.lochbrewery.com.au</link>
+            <guid isPermaLink="false">0598dc84-00b8-4625-97a6-f06678f48ec4</guid>
+            <pubDate>Sat, 27 Aug 2016 01:23:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Archie Rose Distilling Co. | Independent Distillery & Bar In Sydney]]></title>
             <description><![CDATA[<article><h1>Archie Rose Distilling Co. | Independent Distillery & Bar In Sydney</h1><p>We invite you to watch our spirits being made by hand, meet our distillers and savour a drink at our custom-made distillery and bar in Rosebery, Sydney.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4a9a44c1810600c29fc02290992b3c20/croprotate.png?cropheight=2886&cropwidth=792&degrees=0&input=https%3A%2F%2Farchierose.com.au%2Fmedia%2Fcache%2F401e1987974071c2dd272b3752543fa651de8d99.png&x=209&y=0"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[The Gin Queen - Three parts woman, one part gin]]></title>
-            <description><![CDATA[<article><h1>The Gin Queen - Three parts woman, one part gin</h1><p>Three parts woman, one part gin</p><img src="http://theginqueen.com/wp-content/uploads/2016/08/poortomsfoorproof.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Gin Queen - Three parts woman, one part gin</h1><p>Three parts woman, one part gin</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d0a9c68f065af8c062aa9c8cd2436bdd/noop.jpg?input=http%3A%2F%2Ftheginqueen.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fpoortomsfoorproof.jpg"></article>]]></description>
             <link>http://theginqueen.com</link>
             <guid isPermaLink="false">762b2282-1f83-4916-b9eb-a42bae3d72bd</guid>
             <pubDate>Sat, 27 Aug 2016 01:18:06 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://melbournegincompany.com/</link>
             <guid isPermaLink="false">5770f240-b059-4b02-9b67-5fc78393428d</guid>
             <pubDate>Sat, 27 Aug 2016 01:12:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[McHenry Distillery]]></title>
-            <description><![CDATA[<article><h1>McHenry Distillery</h1><p>McHenry Distillery is Australia's southern-most whisky distillery and with its family heritage makes it the southernmost family run distillery in the world. Its southern location takes advantage of the ...</p></article>]]></description>
-            <link>http://mchenrydistillery.com.au/</link>
-            <guid isPermaLink="false">a28be1bc-1303-4fe7-baa5-8223d5b8c529</guid>
-            <pubDate>Sat, 27 Aug 2016 01:12:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
