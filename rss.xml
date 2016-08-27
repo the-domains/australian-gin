@@ -4,8 +4,15 @@
         <description><![CDATA[Australian Gin]]></description>
         <link>http://australiangin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 00:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 01:12:11 GMT</lastBuildDate>
         <atom:link href="http://australiangin.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[McHenry Distillery]]></title>
+            <description><![CDATA[<article><h1>McHenry Distillery</h1><p>McHenry Distillery is Australia's southern-most whisky distillery and with its family heritage makes it the southernmost family run distillery in the world. Its southern location takes advantage of the ...</p></article>]]></description>
+            <link>http://mchenrydistillery.com.au/</link>
+            <guid isPermaLink="false">ec481666-4457-4d4e-9a08-a07ca5de1681</guid>
+            <pubDate>Sat, 27 Aug 2016 01:12:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Forty Spotted]]></title>
             <description><![CDATA[<article><h1>Forty Spotted</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c8bf4b8b2d61fedb85182b917cac5613/noop.png?input=http%3A%2F%2Ffortyspotted.com%2Fwp-content%2Fthemes%2Fforty-spotted%2Fassets%2Fimg%2Fpepperberry.png"></article>]]></description>
